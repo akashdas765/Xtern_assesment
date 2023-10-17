@@ -23,4 +23,4 @@ This dataset contains information about students, their majors, and the universi
 4. **Bias Mitigation:** Be aware of potential biases in the data and take measures to mitigate them.
 5. **Data Retention and Deletion:** Comply with data retention policies for ethical and legal reasons.
 
-Feel free to adapt and expand this README to suit your specific use case.
+
